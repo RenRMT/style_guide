@@ -6,4 +6,4 @@ nav_enabled: true
 
 This is a test website for the style guide.
 
-Go to the [colour_palette].
+Go to the [colour_palette](https://renrmt.githbub.io/colour_palette).

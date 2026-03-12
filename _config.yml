@@ -7,7 +7,7 @@ baseurl: "/styleguide"
 url: "https://renrmt.github.io/"
 repository: RenRMT/style_guide
 aux_links:
-  Template Repository: https://github.com/RenRMT/style_guide
+  Style guide repository: https://github.com/RenRMT/style_guide
 
 # paths to logo & favicon
 #logo: "/path/to/logo.png"
@@ -26,3 +26,11 @@ footer_content: 'Placeholder footer content. Lorem ipsum dolor sit amet.'
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
