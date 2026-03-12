@@ -14,7 +14,6 @@ Our brand colours are Primary blue, Dark blue, Back and Light grey. Text in data
   <div style="display:inline-block; width:60px; height:60px; background-color:#f9f9f9; box-shadow:0 2px 4px rgba(0,0,0,0.25);"></div>
 </div>
 
-
 # Data colours
 
 Steel Blue (#0077BB) is the primary Data colour and should be used by default in data visualisations. The selected colours are colour-blind friendly and provide more contrast.  This keeps our data visualisations in line with the brand colours but differentiated enough to distinguish branding and data content.
