@@ -20,4 +20,4 @@ nav_order: 2
 
 ## Practice
 
-- No visuals without data: we only create graphics and maps based on actual data. We do not recreate existing visualisations.]
+- No visuals without data: we only create graphics and maps based on actual data. We do not recreate existing visualisations.

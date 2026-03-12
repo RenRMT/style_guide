@@ -1,5 +1,6 @@
 ---
 title: Colour categories
+parent: Colours
 nav_order: 1
 ---
 
