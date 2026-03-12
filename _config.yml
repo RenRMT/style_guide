@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Data visualisation style guide
+description: Standards, guidance and template for data visualisations
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://renrmt.github.io/style_guide
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/RenRMT/style_guide
