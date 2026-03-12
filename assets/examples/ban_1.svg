@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="32.281578"
+       y="48.649704"
+       width="86.614662"
+       height="68.200523"
+       id="rect5" />
+    <rect
+       x="45.329884"
+       y="52.470894"
+       width="52.67522"
+       height="28.685038"
+       id="rect10" />
+    <rect
+       x="0.31047866"
+       y="0"
+       width="118.91332"
+       height="40.051746"
+       id="rect8" />
+  </defs>
+  <path
+     style="fill:#aa4400;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+     d="M 40,112.99037 H 55 L 47.5,100 Z"
+     id="path8" />
+  <rect
+     style="fill:#1b4ba7;fill-opacity:1;stroke:#0077bb;stroke-width:0;stroke-opacity:0.776316"
+     id="rect2"
+     width="120"
+     height="40"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     id="text8"
+     style="font-size:24px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);fill:#f9f9f9;fill-opacity:1;stroke:#0077bb;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.776316"
+     x="89.505325"
+     y="0"
+     transform="translate(-3.3894558e-8,14.094774)"><tspan
+       x="22.431641"
+       y="21.895928"
+       id="tspan5"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan1">Thefts</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text9"
+     style="font-size:11.7361px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);fill:#07142c;fill-opacity:1;stroke:#0077bb;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.776316"
+     transform="matrix(1.1360939,0,0,1.1360939,-12.772871,40.979965)"><tspan
+       x="61.576527"
+       y="63.177903"
+       id="tspan8"><tspan
+         style="font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan7">+5%</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1b4ba7;fill-opacity:1;stroke:#0077bb;stroke-width:0;stroke-opacity:0.776316"
+     x="58.425114"
+     y="13.867438"
+     id="text3"><tspan
+       id="tspan3"
+       x="58.425114"
+       y="13.867438"
+       style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1">February 2026</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5"
+     style="font-size:53.3333px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);fill:#07142c;fill-opacity:1;stroke:#0077bb;stroke-width:0;stroke-opacity:0.776316"
+     transform="translate(-13.640104,-5.2287065)"><tspan
+       x="48.557633"
+       y="95.317029"
+       id="tspan9">42</tspan></text>
+</svg>

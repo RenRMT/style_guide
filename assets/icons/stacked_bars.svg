@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       id="rect1"
+       style="stroke:#000000;stroke-width:0"
+       d="M 120,0 H 87 v 30 h 33 z M 81,0 H 33 V 30 H 81 Z M 27,0 H 0 v 30 h 27 z" />
+    <path
+       id="rect1-7"
+       style="stroke:#000000;stroke-width:0"
+       d="m 120,45 h -20 v 30 h 20 z M 94,45 H 60 V 75 H 94 Z M 54,45 H 0 v 30 h 54 z" />
+    <path
+       id="rect1-0"
+       style="stroke:#000000;stroke-width:0"
+       d="M 120,90 H 80 v 30 h 40 z M 74,90 H 40 v 30 H 74 Z M 34,90 H 0 v 30 h 34 z" />
+  </g>
+</svg>
