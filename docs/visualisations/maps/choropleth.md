@@ -1,7 +1,7 @@
 ---
 title: Choropleth maps
 parent: Maps
-nav_index: 3
+nav_order: 3
 ---
 show differences in relative quantities with differences in luminosity/hue (+ hex bin)
 NB: relative quantities only, using for absolute quantities is misleading

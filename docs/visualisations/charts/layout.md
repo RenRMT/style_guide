@@ -1,7 +1,7 @@
 ---
 title: Chart layout specification
 parent: Charts
-nav_index: 1
+nav_order: 1
 ---
 1.	Figure number (optional): use figure number if the chart is referred to in the text. This makes the link between the text and the figure more clear
 2.	Title: title is mandatory in every case. The title should answer the “why” question: why are we showing readers this chart? What is the point we want to make
@@ -17,6 +17,6 @@ nav_index: 1
 12.	Source / note
 13.	Logo: mandatory, follow brand guidelines (don’t stretch etc.) Must be placed bottom right. If not possible for whatever reason: top right (?)
 
-![](../../assets/examples/chart_example.png)
+![](../../../assets/examples/chart_example.png)
 
-![](../../assets/examples/chart_example_2.png)
+![](../../../assets/examples/chart_example_2.png)

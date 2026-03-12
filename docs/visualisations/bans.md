@@ -1,7 +1,7 @@
 ---
 title: Big Aggregated Numbers (BANs)
 parent: Visualisations
-nav_index: 1
+nav_order: 1
 ---
 A chart or map may not always be the most appropriate data visualisation type. When conveying a single key indicator or main message, a Big Aggregated Number (BAN) can often be more effective. A BAN can draw attention and quickly convey the main point of a report; aid in navigation of a report by highlighting important findings; and encourage further exploration of the report in more details.
 

@@ -1,7 +1,7 @@
 ---
 title: Point maps
 parent: Maps
-nav_index: 4
+nav_order: 4
 ---
 
 # Dot density 

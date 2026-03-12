@@ -1,7 +1,7 @@
 ---
 title: Distribution
 parent: Charts
-nav_index: 5
+nav_order: 5
 ---
 
 # histogram

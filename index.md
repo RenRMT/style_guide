@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_enabled: true
-nav_index: 1
+nav_order: 1
 ---
 
 This is a test website for the style guide.

@@ -7,7 +7,7 @@ baseurl: "/styleguide"
 url: "https://renrmt.github.io/"
 repository: RenRMT/style_guide
 aux_links:
-  Style guide repository: https://github.com/RenRMT/style_guide
+  Github repo: https://github.com/RenRMT/style_guide
 
 # paths to logo & favicon
 #logo: "/path/to/logo.png"

@@ -1,7 +1,7 @@
 ---
 title: Map layout specification
 parent: Maps
-nav_index: 1
+nav_order: 1
 ---
 Repeat 3/30/300 rule.
 - 3 seconds: locator map, single incident highlight (low requirements for map elements. Short descriptive title, no subtitle. No legend (use direct labelling). Small logo (?) no source / note (but list all appropriate source, credits and copyright in the report footer/endnotes. Locator maps ONLY integrated in report.

@@ -1,7 +1,7 @@
 ---
 title: Comparison
 parent: Charts
-nav_index: 2
+nav_order: 2
 ---
 # Horizontal bar chart
 

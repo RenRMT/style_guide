@@ -1,6 +1,6 @@
 ---
 title: Visualisations
-nav_index: 5
+nav_order: 5
 ---
 
 3/30/300 rule. To determine the appropriate amount of detail for your visualisation. You can divide your visualisation according to the 3/30/300 rule. The person reading your chart will spend either 3 seconds, 30 seconds, or 300 seconds (=5 minutes) looking at your visualisation. Or maybe just 3 seconds, 30 seconds, 3 minutes 

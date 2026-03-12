@@ -1,7 +1,7 @@
 ---
 title: Chorochromatic maps
 parent: Maps
-nav_index: 2
+nav_order: 2
 ---
 show qualitative differences with the use of different colours
 -  for 2 or more variables, use colour alone, or use colour + symbology

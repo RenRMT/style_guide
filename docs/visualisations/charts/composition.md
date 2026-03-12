@@ -1,7 +1,7 @@
 ---
 title: Composition
 parent: Charts
-nav_index: 3
+nav_order: 3
 ---
 # Pie chart
 

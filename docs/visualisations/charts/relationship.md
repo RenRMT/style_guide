@@ -1,7 +1,7 @@
 ---
 title: Relationship
 parent: Charts
-nav_index: 4
+nav_order: 4
 ---
 
 # scatterplot
