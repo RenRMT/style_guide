@@ -1,5 +1,5 @@
 ---
-title: Visualisations
+title: Choosing a visualisation type
 nav_order: 5
 ---
 

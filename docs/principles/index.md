@@ -4,6 +4,8 @@ layout: default
 nav_order: 2
 ---
 
+Our design principles ensure that maps, charts, and other visuals communicate clear, accurate, and actionable insights to our partners. These principles guide both the creation of visual products and the collaboration between programmes team and the info team. 
+
 # Purpose
 
 - Our visualisations are convincing. Maps and charts do more than display data: they communicate meaningful insights. 

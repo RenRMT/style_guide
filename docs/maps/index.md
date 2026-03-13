@@ -1,7 +1,6 @@
 ---
 title: Maps
-parent: Visualisations
-nav_order: 3
+nav_order: 8
 ---
 Maps are an appropriate visualisation type when your data has a geospatial component. There are a number of common ways to visualise geospatial information, and these are further explained below.  
 Repeat 3/30/300 rule.
