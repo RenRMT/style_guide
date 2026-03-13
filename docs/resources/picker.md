@@ -1,8 +1,9 @@
 ---
-title: Colour picker
-parent: Colours
-nav_order: 4
+title: Interactive colour picker
+parent: Resources
+nav_order: 1
 ---
+<head>
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -131,7 +132,6 @@ nav_order: 4
 </head>
 
 <body>
-<h1>Colour Palettes</h1>
 <div id="palette-root"></div>
 
 <script>
