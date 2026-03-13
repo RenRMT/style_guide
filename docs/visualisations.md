@@ -3,6 +3,25 @@ title: Choosing a visualisation type
 nav_order: 5
 ---
 
+Choosing a visualisation type requires decision along two axes: 
+1. what is the type of data you visualise
+2. what is the expected level of attention from your audience
+
+### 1. Type of data
+
+- A single variable/number, a key message or indicator: BAN / sparklines
+- Two or more variables: chart - comparison, composition, relationship, distribution
+- Two or more variables with a geospatial element: map 
+
+### 2. Level of attention
+
+A helpful heuristic: 3/30/3 rule. When you create a visual you can expect either: 3 seconds, 30 seconds, or 30 minutes of attention from the reader (this might vary in reality, of course. But it will be a lot shorter than you think - or hope). With this guideline in mind you can determine the appropriate level of detail for your visualisation.
+
+- 3 seconds: Deliver a single, immediate insight with minimal cognitive effort. 
+- 30: seconds: Communicate one main message requiring light interpretation. 
+- 3 minutes: Enable deep understanding, exploration of nuance, and multi-layer context.
+
+
 3/30/300 rule. To determine the appropriate amount of detail for your visualisation. You can divide your visualisation according to the 3/30/300 rule. The person reading your chart will spend either 3 seconds, 30 seconds, or 300 seconds (=5 minutes) looking at your visualisation. Or maybe just 3 seconds, 30 seconds, 3 minutes 
 
 - 3 seconds: Infographic: management/executive audience. Fast & easy decision or insights, actionable information, 2 colours. BANs, locator map with relevant locations or 1 or 2 annotated incident highlights. Sparklines

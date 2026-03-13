@@ -3,10 +3,9 @@ title: Map layout specification
 parent: Maps
 nav_order: 1
 ---
-Repeat 3/30/300 rule.
-- 3 seconds: locator map, single incident highlight (low requirements for map elements. Short descriptive title, no subtitle. No legend (use direct labelling). Small logo (?) no source / note (but list all appropriate source, credits and copyright in the report footer/endnotes. Locator maps ONLY integrated in report.
-- 30 seconds: 
-- 300 seconds: for standalone maps, high level of complexity allowed, many mandatory elements (in the sense that they must be present), but mainly guided by design principles / best practices. The point is to tell a story, and rigid standards can stand in the way (NOT appropriate integrated in reports).
+3/30/3
+3 seconds: locator maps, (single) event highlight
+30: seconds: dat
 
 # Map elements
 

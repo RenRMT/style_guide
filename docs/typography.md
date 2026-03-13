@@ -13,13 +13,16 @@ Text on visualisations is displayed in black, on a white background. If using a 
 ## Uses
 | Element | Specification |
 |:--------|:--------------|
-|Title, Large numbers & labels	| Calibri bold, 24pts |
-| Subtitle | Calibri, 20 pts |
-| Figure number	| Calibri, 16pts |
-| legend	| Calibri, 16pts |
-| data labels	| Calibri, 16pts |
-| y-/x-axis title	| Calibri, 16pts |
-|  y-/x-axis value	| Calibri, 16pts |
-| Source | Calibri light, 12 pts |
-| Note | Calibri light, 12 pts | 
+|Title             | <span style="font-family: Calibri; font-size: 24pt; font-weight: bold;">Calibri bold, 24pt</span> |
+| Subtitle         | <span style="font-family: Calibri; font-size: 20pt;">Calibri, 20 pt</span> |
+| Figure number    | <span style="font-family: Calibri; font-size: 16pt;">Calibri, 16pt</span> |
+| legend           | <span style="font-family: Calibri; font-size: 16pt;">Calibri, 16pt</span> |
+| data labels      | <span style="font-family: Calibri; font-size: 16pt;">Calibri, 16pt</span> |
+| y-/x-axis title  | <span style="font-family: Calibri; font-size: 16pt;">Calibri, 16pt</span> |
+| y-/x-axis value  | <span style="font-family: Calibri; font-size: 16pt;">Calibri, 16pt</span> |
+| Source           | <span style="font-family: Calibri; font-size: 12pt; font-weight: light">Calibri light, 12 pt</span> |
+| Note             | <span style="font-family: Calibri; font-size: 12pt; font-weight: light">Calibri light, 12 pt</span> | 
+
+
+
 
